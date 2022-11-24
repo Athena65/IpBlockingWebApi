@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "cbv0z2njwo+WvppptafOuk1qg2GwH24LFGvFjRF1OhY=",
+  "Source": "IpBlockingWebApi",
+  "BasePath": "_content/IpBlockingWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
